@@ -4,4 +4,4 @@
 
 Github Page:[https://amd-128.github.io/free_websites](https://amd-128.github.io/free_websites)
 
-不收录任何娱乐网站，有需要的请出门左拐。
+坚决拒绝黄赌毒。
