@@ -4,7 +4,7 @@
 
 使用方式：
 
-1.git clone https://github.com/amd-128/free_websites.git
+1.`git clone https://github.com/amd-128/free_websites.git`
 
 然后使用sqlite驱动打开free_websites.db3查看。
 
